@@ -1,0 +1,10 @@
+header {
+  font-family: "Itim", cursive;
+  background-color: teal;
+  color: white;
+  border-bottom: 5px solid black;
+  padding: 25px;
+}
+h1 {
+  font-family: "Itim", cursive;
+}

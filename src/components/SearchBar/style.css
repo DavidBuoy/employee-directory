@@ -1,0 +1,16 @@
+.input-group {
+  margin: 20px;
+  text-align: center;
+}
+
+.form-control{
+  margin: 20px;
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+form{
+  width: 50%;
+  margin: 0 auto;
+}
